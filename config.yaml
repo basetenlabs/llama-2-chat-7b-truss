@@ -26,7 +26,7 @@ requirements:
 - accelerate
 - bitsandbytes
 - einops
-- git+https://github.com/huggingface/transformers.git
+- transformers
 - faker
 - math0
 - safetensors
